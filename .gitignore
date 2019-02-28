@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 
 # Created by https://www.gitignore.io/api/node
 # Edit at https://www.gitignore.io/?templates=node
 
 ### Node ###
+=======
+>>>>>>> 9fa8a3db826d61a97127f7e04dadad98cd615c4f
 # Logs
 logs
 *.log
@@ -25,7 +28,11 @@ coverage
 # nyc test coverage
 .nyc_output
 
+<<<<<<< HEAD
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
+=======
+# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+>>>>>>> 9fa8a3db826d61a97127f7e04dadad98cd615c4f
 .grunt
 
 # Bower dependency directory (https://bower.io/)
@@ -61,6 +68,7 @@ typings/
 
 # dotenv environment variables file
 .env
+<<<<<<< HEAD
 .env.test
 
 # parcel-bundler cache (https://parceljs.org/)
@@ -86,3 +94,8 @@ typings/
 
 # End of https://www.gitignore.io/api/node
 package-lock.json
+=======
+
+# next.js build output
+.next
+>>>>>>> 9fa8a3db826d61a97127f7e04dadad98cd615c4f
