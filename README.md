@@ -1,4 +1,4 @@
-# Taller ORM / NODE-ORM-WORKSHOP
+# Taller ORM / NODE-ORM-WORKSHOP 🚀
 
 Pasos a seguir para realizar pruebas con Postman del siguiente código.
 
@@ -22,24 +22,6 @@ Pasos a seguir para realizar pruebas con Postman del siguiente código.
 
 
 # Ahora todo depende de tí ¡El Cielo es el límite!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Figura 14.1](images/final.png)
 
 ## :'v
