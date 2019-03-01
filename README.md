@@ -7,9 +7,8 @@ Pasos a seguir para realizar pruebas básicas con Postman.
 
 ## Segundo Paso
 > Despues de haberlo instalado abriremos la aplicación e iniciaremos sesión, entonces, despues de eso la aplicación nos mostrara la siguiente ventana  y ahí elegiremos la opción de crear un nuevo Request
-
-
-![Figura 14.1](images/postman_1.png)
+>
+>![Figura 14.1](images/postman_1.png)
 
 
 ## Tercer Paso
@@ -17,16 +16,29 @@ Pasos a seguir para realizar pruebas básicas con Postman.
 > Resaltado amarillo, escogeremos el metodo que queremos utilizar
 > Resaltado azul, pondremos la request URL
 > Resaltado rojo, enviaremos la solicitud
-
-![Figura 14.1](images/postman_2.png)
+>
+>![Figura 14.1](images/postman_2.png)
 
 ## Metodo GET
-> En la siguiente imagen podemos ver que se realizo una petición GET, en la cual podemos ver el estado, tiempo, preview y muchas otras opciones que nos permite ver Postman.
+> En la siguiente imagen podemos ver que se realizo una petición GET, en la cual podemos ver el estado, tiempo, preview y muchas otras opciones que nos permite ver Postman. Y referente al ejemplo de la petición, podemos ver como obtenemos todos los datos de la tabla contacts.
 >
 >![Figura 14.1](images/postman_3.png)
 
 ## Metodo POST
+> Ahora para la petición POST, en este caso insertaremos un contacto y para realizarlo debemos cambiar el selector de peticiones a POST, dirigirnos a Params e insertar los campos correspondiente para el modelo al cual queramos insertar y despues de hacer la solicitud nos mostrara la id con la cual guardo el nuevo contacto.
+>
+>![Figura 14.1](images/postman_4.png)
 
+## Metodo PUT
+> La petición PUT nos permite remplazar o actualizar una representación del elemento, para este ejemplo, como en los anteriores metodos cambiamos el tipo de petición y en este en especifico, en la URL o como parametro, entra la ID del contacto que queremos modificar un elemento y entra el elemento que le queremos modificar y lo que queremos poner nuevo.
+>
+>![Figura 14.1](images/postman_5.png)
+>
+>Y si volvemos a llamar la petición GET, podemos observar como cambio
+>
+>[Figura 14.1](images/postman_6.png)
+
+## Metodo Delete
 # Ahora todo depende de tí ¡El Cielo es el límite!
 ![Figura 14.1](images/final.png)
 
