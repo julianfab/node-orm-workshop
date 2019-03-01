@@ -1,6 +1,6 @@
 # Taller ORM / NODE-ORM-WORKSHOP 🚀
 
-Pasos a seguir para realizar pruebas con Postman del siguiente código.
+Pasos a seguir para realizar pruebas básicas con Postman.
 
 ## Primer Paso
 > Descargar e instalar Postman de el siguiente link : https://www.getpostman.com/downloads/
@@ -20,6 +20,12 @@ Pasos a seguir para realizar pruebas con Postman del siguiente código.
 
 ![Figura 14.1](images/postman_2.png)
 
+## Metodo GET
+> En la siguiente imagen podemos ver que se realizo una petición GET, en la cual podemos ver el estado, tiempo, preview y muchas otras opciones que nos permite ver Postman.
+>
+>![Figura 14.1](images/postman_3.png)
+
+## Metodo POST
 
 # Ahora todo depende de tí ¡El Cielo es el límite!
 ![Figura 14.1](images/final.png)
