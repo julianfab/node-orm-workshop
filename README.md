@@ -30,15 +30,25 @@ Pasos a seguir para realizar pruebas básicas con Postman.
 >![Figura 14.1](images/postman_4.png)
 
 ## Metodo PUT
-> La petición PUT nos permite remplazar o actualizar una representación del elemento, para este ejemplo, como en los anteriores metodos cambiamos el tipo de petición y en este en especifico, en la URL o como parametro, entra la ID del contacto que queremos modificar un elemento y entra el elemento que le queremos modificar y lo que queremos poner nuevo.
+> La petición PUT nos permite remplazar o actualizar una representación del elemento, para este ejemplo, como en los anteriores metodos cambiamos el tipo de petición y en este en especifico, en la URL o como parametro, entra la ID del contacto que queremos modificar un element. Nos dirigimos en Body , raw y seleccionamos el tipo que sea JSON. Luego ponemos los campos necesarios y que queremos modificar en el JSON.
 >
 >![Figura 14.1](images/postman_5.png)
 >
->Y si volvemos a llamar la petición GET, podemos observar como cambio
+>Y si volvemos a llamar la petición GET, podemos observar como cambio.
 >
 >[Figura 14.1](images/postman_6.png)
 
 ## Metodo Delete
+>Esta petición es practicamente igual que con el metodo PUT, solo cambiamos el metodo que queremos realizar a DELETE y enviamos la petición.
+>
+>[Figura 14.1](images/postman_7.png)
+>
+>Y si volvemos a llamar la petición GET, podemos observar que ya no esta.
+>
+>[Figura 14.1](images/postman_8.png)
+
+Esto es un paso a paso de como realizar pruebas básicas con Postman, ahora si quieren saber más ...
+
 # Ahora todo depende de tí ¡El Cielo es el límite!
 ![Figura 14.1](images/final.png)
 
