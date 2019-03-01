@@ -52,4 +52,3 @@ Esto es un paso a paso de como realizar pruebas básicas con Postman, ahora si q
 # Ahora todo depende de tí ¡El Cielo es el límite!
 ![Figura 14.1](images/final.png)
 
-## :v
