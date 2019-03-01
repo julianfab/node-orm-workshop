@@ -41,11 +41,11 @@ Pasos a seguir para realizar pruebas básicas con Postman.
 ## Metodo Delete
 >Esta petición es practicamente igual que con el metodo PUT, solo cambiamos el metodo que queremos realizar a DELETE y enviamos la petición.
 >
->[Figura 14.1](images/postman_7.png)
+>![Figura 14.1](images/postman_7.png)
 >
 >Y si volvemos a llamar la petición GET, podemos observar que ya no esta.
 >
->[Figura 14.1](images/postman_8.png)
+>![Figura 14.1](images/postman_8.png)
 
 Esto es un paso a paso de como realizar pruebas básicas con Postman, ahora si quieren saber más ...
 
