@@ -50,5 +50,5 @@ Pasos a seguir para realizar pruebas básicas con Postman.
 Esto es un paso a paso de como realizar pruebas básicas con Postman, ahora si quieren saber más ...
 
 # Ahora todo depende de tí ¡El Cielo es el límite!
-![Figura 14.1](images/final.png)
+
 
